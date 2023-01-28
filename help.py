@@ -1,1 +1,1 @@
-print("HELP")
+print("NO HELP")
